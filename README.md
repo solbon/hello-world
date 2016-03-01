@@ -1,2 +1,4 @@
 # hello-world
-My first project on GitHub
+Hi Humans,
+
+My name is Solbon. This is my lesson on GitHub tutorial.
